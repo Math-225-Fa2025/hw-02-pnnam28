@@ -1,6 +1,6 @@
 ---
 title: "HW 02 - Airbnb listings in Edinburgh"
-author: "Your Name"
+author: "Nam Pham"
 output: 
   tufte::tufte_handout:
     latex_engine: xelatex
